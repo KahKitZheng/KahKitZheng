@@ -13,10 +13,10 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 
-### I’m currently learning 
+<!-- ### I’m currently learning  -->
 
-![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
+<!-- ![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat&logo=react) -->
+<!-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) -->
+<!-- ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript) -->
 
 <!-- ### 🤔 I'm currently working on -->
